@@ -6,7 +6,7 @@ compatibility_date = "2025-01-01"
 # Comma-separated list of websites allowed to connect.
 # Replace YOURNAME with your GitHub username (lowercase, no trailing slash).
 # Example: "https://janedoe.github.io"
-ALLOWED_ORIGINS = "https://YOURNAME.github.io"
+ALLOWED_ORIGINS = "https://herjiberb.github.io"
 
 [[durable_objects.bindings]]
 name = "ROOM"
